@@ -165,7 +165,7 @@ createPromise.then((val) => console.log(val));
 // etc.
 // reset: upon invocation, completely stops the "clock".
 // Also resets the time back to the beginning.
-​
+
 // ? Hint: look up setInterval and clearInterval.
 
 class SecondClock {
